@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04556cc8-ef30-4e12-b549-1612afaf1eac" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/FaizMusic/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/FaizMusic/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaizMusic/css/jquery.mCustomScrollbar.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/FaizMusic/css/jquery.mCustomScrollbar.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaizMusic/css/player.css" beforeDir="false" afterPath="$PROJECT_DIR$/FaizMusic/css/player.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaizMusic/css/small.css" beforeDir="false" afterPath="$PROJECT_DIR$/FaizMusic/css/small.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaizMusic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/FaizMusic/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaizMusic/js/ajax.js" beforeDir="false" afterPath="$PROJECT_DIR$/FaizMusic/js/ajax.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaizMusic/js/background-blur.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/FaizMusic/js/background-blur.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaizMusic/js/functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/FaizMusic/js/functions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaizMusic/js/lyric.js" beforeDir="false" afterPath="$PROJECT_DIR$/FaizMusic/js/lyric.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaizMusic/js/musicList.js" beforeDir="false" afterPath="$PROJECT_DIR$/FaizMusic/js/musicList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaizMusic/js/player.js" beforeDir="false" afterPath="$PROJECT_DIR$/FaizMusic/js/player.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FaizMusic/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1675">
+              <caret line="67" column="53" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="player.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FaizMusic/css/player.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4325">
+              <caret line="240" column="24" selection-start-line="240" selection-start-column="24" selection-end-line="240" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FaizMusic/js/functions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10775">
+              <caret line="431" column="153" selection-start-line="431" selection-start-column="6" selection-end-line="431" selection-end-column="153" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ajax.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FaizMusic/js/ajax.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7275">
+              <caret line="291" column="55" selection-start-line="291" selection-start-column="55" selection-end-line="291" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="api.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FaizMusic/api.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3600">
+              <caret line="149" column="14" selection-start-line="149" selection-start-column="14" selection-end-line="149" selection-end-column="14" />
+              <folding>
+                <element signature="e#6#183#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="musicList.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FaizMusic/js/musicList.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1800">
+              <caret line="72" column="36" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="player.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FaizMusic/js/player.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rem</find>
+      <find>mkpgb-area</find>
+      <find>rem.order</find>
+      <find>lyric-tip</find>
+      <find>parseLyric</find>
+      <find>rem.lastLyric</find>
+      <find>layuicss-skinlayercss</find>
+      <find>rem.wd</find>
+      <find>mkPlayer.method</find>
+      <find>mkPlayer.api</find>
+      <find>mkPlayer</find>
+      <find>musicList</find>
+      <find>addListhead</find>
+      <find>listToTop()</find>
+      <find>updateMinfo</find>
+      <find>playerSavedata</find>
+      <find>music</find>
+      <find>callback</find>
+      <find>window.downloadFile</find>
+      <find>addSheet</find>
+      <find>歌曲搜索</find>
+      <find>search</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/FaizMusic" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FaizMusic/index.html" />
+        <option value="$PROJECT_DIR$/FaizMusic/js/player.js" />
+        <option value="$PROJECT_DIR$/FaizMusic/api.php" />
+        <option value="$PROJECT_DIR$/FaizMusic/js/ajax.js" />
+        <option value="$PROJECT_DIR$/FaizMusic/js/musicList.js" />
+        <option value="$PROJECT_DIR$/FaizMusic/js/functions.js" />
+        <option value="$PROJECT_DIR$/FaizMusic/css/player.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="20" />
+    <option name="y" value="5" />
+    <option name="width" value="1255" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FaizMusic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaizMusic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FaizMusic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaizMusic" type="462c0819:PsiDirectoryNode" />
+              <item name="FaizMusic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FaizMusic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaizMusic" type="462c0819:PsiDirectoryNode" />
+              <item name="FaizMusic" type="462c0819:PsiDirectoryNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FaizMusic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaizMusic" type="462c0819:PsiDirectoryNode" />
+              <item name="FaizMusic" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FaizMusic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaizMusic" type="462c0819:PsiDirectoryNode" />
+              <item name="FaizMusic" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FaizMusic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaizMusic" type="462c0819:PsiDirectoryNode" />
+              <item name="FaizMusic" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value=".item&#9;null&#9;null&#10;open&#9;null&#9;null&#10;btn-order&#9;null&#9;null&#10;music&#9;FILE&#9;file://F:/工程实训/FaizMusic/FaizMusic/js/musicList.js&#10;dow&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/MKOnlineMusicPlayer-master" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Unnamed">
+    <configuration name="Unnamed" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/FaizMusic/FaizMusic/index.html" />
+    <configuration name="test" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8095" />
+    <list>
+      <item itemvalue="JavaScript Debug.Unnamed" />
+      <item itemvalue="PHP Built-in Web Server.test" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04556cc8-ef30-4e12-b549-1612afaf1eac" name="Default" comment="" />
+      <created>1530346750307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530346750307</updated>
+      <workItem from="1530346752926" duration="4844000" />
+      <workItem from="1530493963245" duration="1555000" />
+      <workItem from="1530495558243" duration="7747000" />
+      <workItem from="1530513424826" duration="2235000" />
+      <workItem from="1530515697857" duration="9317000" />
+      <workItem from="1530579077612" duration="8843000" />
+      <workItem from="1530588608977" duration="1056000" />
+      <workItem from="1530600033972" duration="1173000" />
+      <workItem from="1530601225893" duration="2614000" />
+      <workItem from="1530603861676" duration="4275000" />
+      <workItem from="1530608160318" duration="2520000" />
+      <workItem from="1530665105998" duration="6624000" />
+      <workItem from="1530700554201" duration="18000" />
+      <workItem from="1530764668945" duration="38000" />
+      <workItem from="1530787826896" duration="25000" />
+      <workItem from="1530844603935" duration="197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="53081000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2552356" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15885417" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39921466" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/FaizMusic/js/ajax.js</url>
+          <line>291</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/FaizMusic/css/player.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15124">
+          <caret line="796" selection-start-line="796" selection-end-line="796" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/musicList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="3572">
+            <caret line="188" column="10" lean-forward="true" selection-start-line="188" selection-start-column="10" selection-end-line="188" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/lyric.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="66" column="4" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3420">
+          <caret line="180" column="28" lean-forward="true" selection-start-line="180" selection-start-column="28" selection-end-line="180" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/css/player.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15124">
+          <caret line="796" selection-start-line="796" selection-end-line="796" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="65" lean-forward="true" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/lyric.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="66" column="4" lean-forward="true" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/musicList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2793">
+          <caret line="147" column="14" selection-start-line="147" selection-start-column="14" selection-end-line="147" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8949">
+          <caret line="471" column="1" lean-forward="true" selection-start-line="471" selection-start-column="1" selection-end-line="471" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="3306">
+            <caret line="174" column="22" lean-forward="true" selection-start-line="174" selection-start-column="18" selection-end-line="174" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8132">
+          <caret line="428" column="4" selection-start-line="428" selection-start-column="4" selection-end-line="428" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/css/player.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3743">
+          <caret line="197" column="16" lean-forward="true" selection-start-line="197" selection-start-column="16" selection-end-line="197" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7771">
+          <caret line="409" column="31" selection-start-line="409" selection-start-column="31" selection-end-line="409" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/lyric.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/musicList.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="23" column="66" lean-forward="true" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
+          <folding>
+            <element signature="e#6#183#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1558">
+          <caret line="82" column="31" selection-start-line="82" selection-start-column="31" selection-end-line="82" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/ajax.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/background-blur.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7771">
+          <caret line="409" column="31" lean-forward="true" selection-start-line="409" selection-start-column="31" selection-end-line="409" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2546">
+          <caret line="134" lean-forward="true" selection-start-line="134" selection-end-line="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/api.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8037">
+          <caret line="423" column="21" lean-forward="true" selection-start-line="423" selection-start-column="21" selection-end-line="423" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1387">
+          <caret line="73" column="39" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7562">
+          <caret line="398" column="41" selection-start-line="398" selection-start-column="41" selection-end-line="398" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298623">
+          <caret line="15730" column="12" selection-start-line="15730" selection-start-column="12" selection-end-line="15730" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/css/small.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/images/album_cover_player.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/images/wave.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/images/player.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/images/icon_list_menu.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/images/history.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/background-blur.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/lyric.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="66" column="4" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/images/player_cover.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="674">
+            <caret line="188" column="10" selection-start-line="188" selection-start-column="10" selection-end-line="188" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3600">
+          <caret line="149" column="14" selection-start-line="149" selection-start-column="14" selection-end-line="149" selection-end-column="14" />
+          <folding>
+            <element signature="e#6#183#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/musicList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="72" column="36" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10775">
+          <caret line="431" column="153" selection-start-line="431" selection-start-column="6" selection-end-line="431" selection-end-column="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/js/ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7275">
+          <caret line="291" column="55" selection-start-line="291" selection-start-column="55" selection-end-line="291" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1675">
+          <caret line="67" column="53" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaizMusic/css/player.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4325">
+          <caret line="240" column="24" selection-start-line="240" selection-start-column="24" selection-end-line="240" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
